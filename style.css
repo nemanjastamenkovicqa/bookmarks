@@ -1,0 +1,27 @@
+body{
+
+font-family: "Lucida Console", "Courier New", monospace;
+
+background-color: dimgray;
+
+text-align: center;
+
+}
+
+h2 {
+
+color: darkblue;
+
+}
+
+ul {
+
+list-style-type: none;
+
+}
+
+a {
+
+color: orange;
+
+}
